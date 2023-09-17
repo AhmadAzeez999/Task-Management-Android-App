@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Reminder"
+        android:icon="@drawable/reminder_icon"
+        android:id = "@+id/nav_reminder"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="List"
+        android:icon="@drawable/list_icon"
+        android:id = "@+id/nav_list"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Notes"
+        android:icon="@drawable/notes_icon"
+        android:id = "@+id/nav_notes"/>
+</menu>
